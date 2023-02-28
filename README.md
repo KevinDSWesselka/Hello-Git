@@ -18,7 +18,7 @@ git add nomdeArquivo.txtxtx //Adiciona o Arquivo
 
 git commit -m "@KevinDSWesselka TEXTO EXPLICATIVO DO COMMIT" //Comenta a atualização
 
-git puch //Para enviar os arquivos
+git puch //Envia os arquivos
 
 **Outros comandos:**
 
