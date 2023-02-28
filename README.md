@@ -20,7 +20,7 @@ git commit -m "@KevinDSWesselka TEXTO EXPLICATIVO DO COMMIT" //Comenta a atualiz
 
 git puch //Para enviar os arquivos
 
-Outros comandos:
+**Outros comandos:**
 
 git touch //Cria arquivo
 
@@ -31,5 +31,7 @@ ls // Mostra os arquivos
 git config --global --unset user.name //"Desloga" o Nome
 
 git config --global --unset user.email //"Desloga" o Email
+
+rm -rf nome-do-repositorio/ //Remove todo o arquivo
 
 ==========================================================================================
