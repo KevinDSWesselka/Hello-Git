@@ -32,6 +32,6 @@ git config --global --unset user.name //"Desloga" o Nome
 
 git config --global --unset user.email //"Desloga" o Email
 
-rm -rf nome-do-repositorio/ //Remove todo o arquivo
+rm -rf nome-do-repositorio/ //Remove todo o arquivo da maquina
 
 ==========================================================================================
