@@ -19,8 +19,11 @@ git commit -m "@KevinDSWesselka TEXTO EXPLICATIVO DO COMMIT"
 git puch //Para enviar os arquivos
 
 Outros comandos:
+
 git touch //Cria arquivo
+
 git status //Mostra os status
+
 ls // Mostra os arquivos
 
 ==========================================================================================
