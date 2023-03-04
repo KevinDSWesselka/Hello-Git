@@ -3,7 +3,7 @@ Esse é o primeiro Git feito com essa conta Git-Hub!
 
 Essa sera provavelmente a  conta GitHub que irei mais utilizar, logo trago novidades...
 
-==========================================================================================
+==================================================
 28/02/2023
 
 Para os primeiros Gits são fietos comandos simples como:
@@ -34,4 +34,4 @@ git config --global --unset user.email //"Desloga" o Email
 
 rm -rf nome-do-repositorio/ //Remove todo o arquivo da maquina
 
-==========================================================================================
+==================================================
