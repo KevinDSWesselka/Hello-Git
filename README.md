@@ -8,9 +8,9 @@ Essa sera provavelmente a  conta GitHub que irei mais utilizar, logo trago novid
 
 Para os primeiros Gits são fietos comandos simples como:
 
-git config --global user.name "NOME DO UZUARIO" //"Loga" o Nome
+git config --global user.name "NOME DO USUARIO" //"Loga" o Nome
 
-git config --global user.email EMAIL DO UZUAIRIO //"Loga" o Email
+git config --global user.email EMAIL DO USUARIO //"Loga" o Email
 
 git pull //Faz as alterações
 
