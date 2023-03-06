@@ -6,6 +6,8 @@ Essa sera provavelmente a  conta GitHub que irei mais utilizar, logo trago novid
 ==================================================
 28/02/2023
 
+git clone LINKDOGIT //Copia/clona o repertorio
+
 Para os primeiros Gits são fietos comandos simples como:
 
 git config --global user.name "NOME DO USUARIO" //"Loga" o Nome
