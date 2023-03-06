@@ -12,7 +12,7 @@ git config --global user.name "NOME DO USUARIO" //"Loga" o Nome
 
 git config --global user.email EMAIL DO USUARIO //"Loga" o Email
 
-git pull //Faz as alterações
+git pull //Sincroniza com o Git na nuvem
 
 git add nomdeArquivo.txtxtx //Adiciona o Arquivo
 
