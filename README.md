@@ -14,6 +14,10 @@ git config --global user.name "NOME DO USUARIO" //"Loga" o Nome
 
 git config --global user.email EMAIL DO USUARIO //"Loga" o Email
 
+git config --global --replace-all user.name "nome de usuario" //Caso não consiga trocar o nome usuario
+
+git config --global --replace-all user.email "email do usuario" //Caso não consiga trocar o email usuario
+
 git pull //Sincroniza com o Git na nuvem
 
 git add nomdeArquivo.txtxtx //Adiciona o Arquivo
