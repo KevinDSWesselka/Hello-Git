@@ -41,3 +41,6 @@ git config --global --unset user.email //"Desloga" o Email
 rm -rf nome-do-repositorio/ //Remove todo o arquivo da maquina
 
 ==================================================
+
+Link caso tenha duvidas de como tirar um usuario que não sai:
+https://coffops.com/alteracao-de-usuario-git/#:~:text=3%20%E2%80%93%20Alterando%20removendo%20usu%C3%A1rio%20git,como%20na%20imagem%20a%20seguir.
